@@ -44,6 +44,37 @@ The final project helped me practice:
 
 This project reflects my growth, creativity, and confidence in applying computer vision techniques to real-world problems.
 
+---
+
+## ✨ Features
+
+This portfolio includes a collection of practical computer vision work created throughout the semester. Each part highlights a different skill and technique I learned:
+
+### 🖼️ Image Processing Basics
+- Converting images to grayscale  
+- Adjusting brightness and contrast  
+- Applying blur, sharpening, and smoothing filters  
+- Understanding how pixel values shape the final image  
+
+### 🔍 Feature Extraction
+- Edge detection (Sobel, Canny, Laplacian)  
+- Thresholding and segmentation  
+- Histogram analysis  
+- Working with shapes and contours  
+
+### 🧠 Machine Learning for Vision
+- Training simple classifiers  
+- Working with image datasets  
+- Understanding model accuracy and limitations  
+- Using Python libraries like scikit-learn and TensorFlow/PyTorch (if applicable)  
+
+### 🛠️ Hands-On Projects
+- Small experiments done for class  
+- Midterm tasks and implementations  
+- Final project with a complete pipeline  
+- Code examples, notebooks, and visual outputs  
+
+This portfolio shows practical work, not just theory — every topic is supported by real code and real images.
 
 
 
