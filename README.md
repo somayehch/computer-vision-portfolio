@@ -1,3 +1,57 @@
+
+# Computer Vision Portfolio
+
+This project is a collection of computer vision work that shows my skills in image processing, feature extraction, and building simple vision models.  
+It includes practical examples using Python, OpenCV, and machine learning libraries.  
+The goal of this portfolio is to demonstrate my learning, creativity, and my ability to turn concepts into working code.
+
+---
+## 📘 Semester Summary
+
+This semester was a full journey into the world of computer vision.  
+I started with the basics — understanding how images are built, how pixels work, and how simple filters can change the way an image looks. Step by step, I explored more advanced ideas like edge detection, feature extraction, and small machine learning models.
+
+Throughout the semester, I worked through different tasks and hands-on projects.  
+Each one helped me connect theory with real code. I learned how to use Python and OpenCV to clean, transform, and analyze images. Later on, I tried model training, classification, and understanding how computers “see” patterns.
+
+By the end of the semester, I felt more confident in breaking down visual problems, writing cleaner code, and thinking like a computer vision developer. This portfolio shows the progress I made from day one to the final project.
+---
+## 📝 Midterm Summary
+
+The midterm focused on core computer vision techniques.  
+During this period, I learned how to apply image filters, adjust brightness and contrast, detect edges, and use operations like blurring, thresholding, and color conversion.
+
+The main goal of the midterm was to show that I understand:
+
+- How images are represented in arrays  
+- How to manipulate pixels  
+- How different filters affect image quality  
+- How to extract meaningful information from raw images  
+
+This section of the course built the foundation I needed for the second half of the semester.
+---
+## 🎯 Final Project Summary
+
+The final project pushed my skills to a higher level.  
+Here, I applied everything I learned to build a more complete and meaningful computer vision system. I worked with model training, image classification, and more advanced analysis techniques.
+
+The final project helped me practice:
+
+- Building a full pipeline (loading → processing → predicting)  
+- Training a classifier on visual data  
+- Organizing code in a clean and reusable structure  
+- Evaluating performance and improving results  
+
+This project reflects my growth, creativity, and confidence in applying computer vision techniques to real-world problems.
+
+
+
+
+
+
+
+
+
 # 🌟 Computer Vision Projects 🌟
 
 Welcome to my **Computer Vision journey** 💻👁️  
@@ -66,6 +120,8 @@ Want to test yourself? Try answering:
 🤔 Why is it harder to classify cats and dogs than ships?
 
 🔎 What is the difference between SVC and LinearSVC?
+
+
 
 🧠 How could CNNs improve results compared to SVMs?
 
