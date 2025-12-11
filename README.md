@@ -1,5 +1,5 @@
 
-# Computer Vision Portfolio
+# Computer Vision Portfolio - 💼 "Applied AI Portfolio - Houston Community College"
 
 This project is a collection of computer vision work that shows my skills in image processing, feature extraction, and building simple vision models.  
 It includes practical examples using Python, OpenCV, and machine learning libraries.  
